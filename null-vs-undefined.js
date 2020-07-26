@@ -21,8 +21,11 @@
 // const student = {name:"Robert", class: 7};
 // console.log(student.father); //father property ta access korte chaitese but seta declare e kora hoy nai
 
-let fun = undefined;
-console.log(fun);
+// let fun = undefined;
+// console.log(fun);
 
 let ages = [2, 5, 9];
-console.log(ages);
+console.log(ages[5]);
+
+// Null Cases:
+// If you explicitly want to keep an element blank/null
