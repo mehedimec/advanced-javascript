@@ -2,7 +2,8 @@
 
 // below are false condition :
 // 0
-// undefiend
+// ""   --> empty string
+// undefined
 // null
 // NaN
 // false
